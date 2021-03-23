@@ -17,11 +17,14 @@ The open source version of QCovid® has not been certified for clinical use, and
 
 ### Repositories
 
-QCovidEngine -- the QCovid® engine wraps the University of Oxford algorithm as a .Net Standard 2.0 DLL. This DLL is provided to organisations such as the NHS for inclusion in their software.
+#### QCovidEngine
+This is the core component of QCovid®. The engine wraps the University of Oxford algorithm as a .Net Standard 2.0 DLL. This DLL provides a robust and easy to use interface for the QCovid® algorithm.
 
-QCovidEngine-TestCases -- these test cases were provided by the University of Oxford for testing QCovid® against their research data.
+#### QCovidEngine-TestCases
+Test cases have been provided by the University of Oxford for testing QCovid® against their research data. Before any release of QCovid® all test cases are executed.
 
-QCovid-ClinicalCodeGroups -- these CSV files contain the mapping information used by QCovid® to convert between NHS SNOMED and Read2 codes, and the QCovid® codes. These mappings allow QCovid® to process NHS medical records.
+#### QCovid-ClinicalCodeGroups
+These CSV files contain the mapping information used by QCovid® to convert between NHS SNOMED and Read2 codes, and the QCovid® codes. These mappings allow QCovid® to process NHS medical records.
 
 ### Discussions
 The [discussions board](https://github.com/QCovid/QCovid/discussions) is open for discussions about the QCovid® code and suggestions on how we could improve the QCovid® code base.
@@ -41,4 +44,4 @@ QCovid® is available as a .Net Standard 2.0 DLL, suitable for running in both W
 
 ## Authors
 ### Oxford Computer Consultants
-[Oxford Computer Consultants](https://www.oxfordcc.co.uk/) are a software house providing original, robust and flexible software for clients across the public and private sector. We produce software solutions to local government, specialising in integrated contracts and finance solutions for social care. We also provide a highly skilled custom software development service. We have decades of experience from helping universities create spin outs, helping companies build bespoke business tools, and creating revolutionary mobile apps and websites. Visit our website to see other projects we have delivered.
+[Oxford Computer Consultants](https://www.oxfordcc.co.uk/) are a software house providing original, robust and flexible software for clients across the public and private sector. We provide a highly skilled custom software development service. We have decades of experience in science, engineering and medical sectors. Visit our website to see oru full range of services and case examples of other projects we have delivered.
