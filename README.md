@@ -44,4 +44,4 @@ QCovid® is available as a .Net Standard 2.0 DLL, suitable for running in both W
 
 ## Authors
 ### Oxford Computer Consultants
-[Oxford Computer Consultants](https://www.oxfordcc.co.uk/) are a software house providing original, robust and flexible software for clients across the public and private sector. We provide a highly skilled custom software development service. We have decades of experience in science, engineering and medical sectors. Visit our website to see oru full range of services and case examples of other projects we have delivered.
+[Oxford Computer Consultants](https://www.oxfordcc.co.uk/) are a software house providing original, robust and flexible software for clients across the public and private sector. We provide a highly skilled custom software development service. We have decades of experience in science, engineering and medical sectors. Visit our website to see our full range of services and case examples of other projects we have delivered.
