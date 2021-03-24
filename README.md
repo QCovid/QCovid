@@ -38,7 +38,7 @@ If you would like to suggest a change to QCovid® then you can create a pull req
 ## Licensing QCovid® for medical use
 In order to use QCovid® for medical use, a license for the full version of QCovid® is required. This may be purchased from University of Oxford. Please contact enquiries@innovation.ox.ac.uk quoting reference 17939.
 
-The licensed version of QCovid® is has been registered with the Medical and Healthcare products Regulatory Agency (MHRA) and categorised as a Class 1 medical device.
+The licensed version of QCovid® has been registered with the Medical and Healthcare products Regulatory Agency (MHRA) and categorised as a Class 1 medical device.
 
 QCovid® is available as a .Net Standard 2.0 DLL, suitable for running in both Windows and Linux environments. It is distributed with 2 SQL databases suitable for either SQL Server or PostgreSQL. Requests to distribute QCovid® in a different form will be considered.
 
