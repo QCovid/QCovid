@@ -56,7 +56,7 @@ QCovid® Calculation Engine is available as a .Net Standard 2.0 DLL, suitable fo
 ## QCovid® trade mark
 QCovid® is a registered trade mark of Oxford University Innovation. No rights are granted for any use of the QCovid® trade mark by any licensee of this source code version of QCovid® Calculation Engine under the Affero GPL v3 licence. 
 
-Curently, use of QCovid® as a trade mark is reserved to licensees of the CE Marked version of the QCovid Calculation Engine, as licensed by Oxford University Innovation. For permission to use QCovid® as a trade mark in your product, or to licence the CE Marked version, please contact enquiries@innovation.ox.ac.uk quoting reference 17939. 
+Curently, use of QCovid® as a trade mark is reserved to licensees of the CE Marked version of the QCovid Calculation Engine, as licensed by Oxford University Innovation. For permission to use QCovid® as a trade mark in your product, or to licence the CE Marked version of QCovid® Calculation Engine, please contact enquiries@innovation.ox.ac.uk quoting reference 17939. 
 
 ## Authors
 ### Professor Julia Hippisley-Cox
