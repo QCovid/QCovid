@@ -11,6 +11,8 @@ An implementation of the QCovid® algorithm can be found on https://qcovid.org. 
 The NHS are using QCovid® Calculation Engine to perform both population level risk stratification and to provide a web tool for individual COVID-19 risk assessment by clinicians. More information about how the NHS is using QCovid® Calculation Engine can be found at https://digital.nhs.uk/coronavirus/risk-assessment
 
 ## QCovid® Calculation Engine on GitHub
+ QCovid® Calculation Engine is Copyright © 2020 Oxford University Innovation Limited.
+ 
 The source code to QCovid® Calculation Engine has been made available on GitHub, under the terms of the Affero GPL v3.0 licence to improve transparency, flexibility and accountability. 
 
 **In its compiled form, QCovid@ Calculation Engine is a Class I Medical Device and is covered by the Medical Device Regulations 2002 (as amended). Modification of the source code and subsequently placing that modified code on the market may make that person/entity a legal manufacturer of a medical device and so subject to the requirements listed in Medical Device Regulations 2002 (as amended). Failure to comply with these regulations (for example, failure to comply with the relevant registration requirements or failure to meet the relevant essential requirements) may result in prosecution and a penalty of an unlimited fine and/or 6 months’ imprisonment.** 
@@ -23,7 +25,7 @@ This source code version of QCovid® Calculation Engine is provided as is,and **
 This is the core component of QCovid® Calculation Engine. The QCovid® Calculation Engine wraps the University of Oxford QCovid® algorithm (published in the the British Medical Journal as a peer reviewed paper (https://www.bmj.com/content/371/bmj.m3731) as a .Net Standard 2.0 DLL. This DLL provides a robust and easy to use interface for the QCovid® algorithm.
 
 #### QCovidCalculationEngine-TestCases
-These test cases have been provided by the University of Oxford as part of the CE Marking process for QCovid® Calculation Engine to validate it against the QCovd® algorithm as published in the BMJ. Before any CE Marked release of QCovid® Calculation Engine, all test cases are executed and must be passed. The same test cases have been used by licensees of the CE Marked version to ensure it is functioning correctly as installed on their own platforms and in their specific software environments.
+These test cases have been provided by the University of Oxford as part of the CE Marking process for QCovid® Calculation Engine to validate it against the QCovid® algorithm as published in the BMJ. Before any CE Marked release of QCovid® Calculation Engine, all test cases are executed and must be passed. The same test cases have been used by licensees of the CE Marked version to ensure it is functioning correctly as installed on their own platforms and in their specific software environments.
 
 These test cases are synthetic data, presenting as broad a range of combined parameters as possible, and designed to _validate_ the implementation, and ensure the QCovid® Calculation Engine functions identically to the published algorithm. They were not used in the original QCovid® algorithm development.
 
