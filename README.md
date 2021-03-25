@@ -43,7 +43,7 @@ We will evaluate any bug reports and take appropriate action.
 ### Pull requests
 If you would like to suggest a change to QCovid® Calculation Engine, then you can create a pull request, but please follow our contribution guides.
 
-## Licensing QCovid® Calculation Engine for clincial use
+## Licensing QCovid® Calculation Engine for clinical use
 In order to use QCovid® Calculation Engine for clinical use, a license for the full, CE Marked version of QCovid® Calculation Engine is required, from Oxford University Innovation. Please contact enquiries@innovation.ox.ac.uk quoting reference 17939.
 
 The licensed version of QCovid® Calculation Engine has been registered with the Medical and Healthcare products Regulatory Agency (MHRA) and categorised as a Class 1 medical device.
