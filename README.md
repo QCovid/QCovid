@@ -17,7 +17,7 @@ The source code to QCovid® Calculation Engine has been made available on GitHub
 
 **PLEASE NOTE:**
 
-**In its compiled form, QCovid@ Calculation Engine is a Class I Medical Device and is covered by the Medical Device Regulations 2002 (as amended). Modification of the source code and subsequently placing that modified code on the market may make that person/entity a legal manufacturer of a medical device and so subject to the requirements listed in Medical Device Regulations 2002 (as amended). Failure to comply with these regulations (for example, failure to comply with the relevant registration requirements or failure to meet the relevant essential requirements) may result in prosecution and a penalty of an unlimited fine and/or 6 months’ imprisonment.** 
+**In its compiled form, QCovid® Calculation Engine is a Class I Medical Device and is covered by the Medical Device Regulations 2002 (as amended). Modification of the source code and subsequently placing that modified code on the market may make that person/entity a legal manufacturer of a medical device and so subject to the requirements listed in Medical Device Regulations 2002 (as amended). Failure to comply with these regulations (for example, failure to comply with the relevant registration requirements or failure to meet the relevant essential requirements) may result in prosecution and a penalty of an unlimited fine and/or 6 months’ imprisonment.** 
 
 This source code version of QCovid® Calculation Engine is provided as is,and **has not been certified for clinical use, and must not be used for supporting or informing clinical decision-making**.
 
