@@ -13,7 +13,9 @@ The NHS are using QCovid® Calculation Engine to perform both population level r
 ## QCovid® Calculation Engine on GitHub
  QCovid® Calculation Engine is Copyright © 2020 Oxford University Innovation Limited.
  
-The source code to QCovid® Calculation Engine has been made available on GitHub, under the terms of the Affero GPL v3.0 licence to improve transparency, flexibility and accountability. 
+The source code to QCovid® Calculation Engine has been made available on GitHub, under the terms of the Affero GPL v3.0 licence in the spirit of transparency, to provide opportunity for external validation, assurance and collaboration. You may also wish to reference the original BMJ article (https://www.bmj.com/content/371/bmj.m3731) that describes the methodology and research behind the development of the QCovid® algorithm.
+
+**PLEASE NOTE:**
 
 **In its compiled form, QCovid@ Calculation Engine is a Class I Medical Device and is covered by the Medical Device Regulations 2002 (as amended). Modification of the source code and subsequently placing that modified code on the market may make that person/entity a legal manufacturer of a medical device and so subject to the requirements listed in Medical Device Regulations 2002 (as amended). Failure to comply with these regulations (for example, failure to comply with the relevant registration requirements or failure to meet the relevant essential requirements) may result in prosecution and a penalty of an unlimited fine and/or 6 months’ imprisonment.** 
 
