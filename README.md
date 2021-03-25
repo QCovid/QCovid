@@ -17,7 +17,6 @@ The source code to QCovid® Calculation Engine has been made available on GitHub
 
 This source code version of QCovid® Calculation Engine is provided as is,and **has not been certified for clinical use, and must not be used for supporting or informing clinical decision-making**.
 
-
 ### Repositories
 
 #### QCovidCalculationEngine
@@ -44,11 +43,16 @@ We will evaluate any bug reports and take appropriate action.
 If you would like to suggest a change to QCovid® Calculation Engine, then you can create a pull request, but please follow our contribution guides.
 
 ## Licensing QCovid® Calculation Engine for clinical use
-In order to use QCovid® Calculation Engine for clinical use, a license for the full, CE Marked version of QCovid® Calculation Engine is required, from Oxford University Innovation. Please contact enquiries@innovation.ox.ac.uk quoting reference 17939.
+In order to use QCovid® Calculation Engine for clinical use in the UK and Europe, the full, CE Marked version of QCovid® Calculation Engine can be licensed from Oxford University Innovation. Please contact enquiries@innovation.ox.ac.uk quoting reference 17939.
 
-The licensed version of QCovid® Calculation Engine has been registered with the Medical and Healthcare products Regulatory Agency (MHRA) and categorised as a Class 1 medical device.
+The CE Marked version of QCovid® Calculation Engine has been registered with the Medical and Healthcare products Regulatory Agency (MHRA) and categorised as a Class 1 medical device.
 
 QCovid® Calculation Engine is available as a .Net Standard 2.0 DLL, suitable for running in both Windows and Linux environments. It is distributed with 2 SQL databases suitable for either SQL Server or PostgreSQL. Requests to distribute QCovid® Calculation Engine in a different form will be considered.
+
+## QCovid® trade mark
+QCovid® is a registered trade mark of Oxford University Innovation. No rights are granted for any use of the QCovid® trade mark by any licensee of this source code version of QCovid® Calculation Engine under the Affero GPL v3 licence. 
+
+Curently, use of QCovid® as a trade mark is reserved to licensees of the CE Marked version of the QCovid Calculation Engine, as licensed by Oxford University Innovation. For permission to use QCovid® as a trade mark in your product, or to licence the CE Marked version, please contact enquiries@innovation.ox.ac.uk quoting reference 17939. 
 
 ## Authors
 ### Professor Julia Hippisley-Cox
