@@ -19,7 +19,7 @@ The source code to QCovid® Calculation Engine has been made available on GitHub
 
 **In its compiled form, QCovid® Calculation Engine is a Class I Medical Device and is covered by the Medical Device Regulations 2002 (as amended). Modification of the source code and subsequently placing that modified code on the market may make that person/entity a legal manufacturer of a medical device and so subject to the requirements listed in Medical Device Regulations 2002 (as amended). Failure to comply with these regulations (for example, failure to comply with the relevant registration requirements or failure to meet the relevant essential requirements) may result in prosecution and a penalty of an unlimited fine and/or 6 months’ imprisonment.** 
 
-This source code version of QCovid® Calculation Engine is provided as is,and **has not been certified for clinical use, and must not be used for supporting or informing clinical decision-making**.
+This source code version of QCovid® Calculation Engine is provided as is, and **has not been certified for clinical use, and must not be used for supporting or informing clinical decision-making**.
 
 ### Repositories
 
@@ -63,7 +63,7 @@ Curently, use of QCovid® as a trade mark is reserved to licensees of the CE Mar
 [Professor Julia Hippisley-Cox] (https://www.phc.ox.ac.uk/team/julia-hippisley-cox)is Professor of Clinical Epidemiology & General Practice in the Nuffield Department of Primary Care at the University of Oxford and the principle investigator on the NIHR funded research programme that led to the development of QCovid® Algorithm. She is also lead author of the peer reviewed paper in the BMJ (https://www.bmj.com/content/371/bmj.m3731), that describes the methodology used to develop QCovid®.
 
 ### Oxford Computer Consultants
-[Oxford Computer Consultants](https://www.oxfordcc.co.uk/) are a software house providing original, robust and flexible software for clients across the public and private sector. We provide a highly skilled custom software development service. We have decades of experience in science, engineering and medical sectors. Visit our website to see our full range of services and case examples of other projects we have delivered.
+[Oxford Computer Consultants](https://www.oxfordcc.co.uk/) are a software house providing original, robust and flexible software for clients across the public and private sector. We provide a highly skilled custom software development service with decades of experience in science, engineering and medical sectors. Visit our website to see our full range of services and case examples of other projects we have delivered.
 
 ### Oxford University Innovation Limited
 [Oxford University Innovation Limited] (https://www.innovation.ox.ac.uk) are a wholly-owned subsidiary of the University of Oxford. We manage the University’s technology transfer and consulting activities. We are the MHRA-registered Medical Device Manufacturer for the CE Marked version of QCovid® Calculation Engine as supplied to NHS Digital and other healthcare organisations. All requests for licensing should be sent to enquiries@innovation.ox.ac.uk, quoting 17939.
